@@ -1,0 +1,16 @@
+# Ejecutables y archivos de compilación
+*.o
+*.obj
+*.exe
+*.out
+*.bin
+
+# Archivos temporales de C4droid y del sistema
+.c4droid/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# La ROM del juego (para no violar derechos en GitHub)
+game.nes
+*.nes
